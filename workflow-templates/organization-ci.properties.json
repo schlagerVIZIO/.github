@@ -1,0 +1,11 @@
+{
+    "name": "schlagerVIZIO Shared Workflow",
+    "description": "schlagerVIZIO starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "*.py"
+    ]
+}
